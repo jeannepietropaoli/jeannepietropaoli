@@ -1,6 +1,6 @@
-## 👋 Salut, moi c'est Jeanne , bienvenue sur mon profil Github
+## 👋 Salut, moi c'est Jeanne, développeuse Web Front-End
 
-**Développeuse Web Front-End**
+**Bienvenue sur mon profil Github !**
 
 (English version below)
 
