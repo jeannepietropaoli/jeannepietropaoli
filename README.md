@@ -4,8 +4,6 @@
 
 (English version below)
 
----
-
 ## 📚 À propos de moi
 
 - 🎓 Formation: Je suis présentemment un AEC en Programmation Web Front-End
@@ -14,8 +12,6 @@
 - 🧑‍💻 + : Je suis en parallèle le cursus Full-Stack Javascript de Odin Project
 
 
----
-
 ## 💼 Portfolio
 
 Consultez mon portfolio [ici](https://jeannepietropaoli.github.io/portefolio/).
@@ -23,17 +19,11 @@ Consultez mon portfolio [ici](https://jeannepietropaoli.github.io/portefolio/).
 Vous y trouverez quelques uns de mes projets et les détails de mon profil.
 
 
----
-
-
 ## 📫 Me contacter
 
 - Email : [pietropaolijeanne@gmail.com].
 - LinkedIn : [https://www.linkedin.com/in/jeanne-pietropaoli-649398280/].
 - Site web : [https://jeannepietropaoli.github.io/portefolio/].
-
-
----
 
 
 ## 🛠️ Tech Stack
@@ -48,9 +38,6 @@ Vous y trouverez quelques uns de mes projets et les détails de mon profil.
 ![PHP (débutant)](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 
----
-
-
 ## Bucket List
 
 Voici un aperçu des technologies et des objectifs que je souhaite explorer dans les prochains mois:
@@ -59,16 +46,11 @@ Voici un aperçu des technologies et des objectifs que je souhaite explorer dans
 - 🚀 Contribuer à un projet open-source
 
 
----
-
-
 ## 🔍 Recherche d'Opportunités
 
 
 Je suis actuellement à la recherche d'une opportunité professionnelle où mon sérieux, mon exigence et mon approche créative seront des atouts pour enrichir durablement votre équipe. N'hésitez pas à me contacter ! 👋
 
-
----
 
 ## 🎉 Bonus
 
@@ -78,7 +60,6 @@ Je suis actuellement à la recherche d'une opportunité professionnelle où mon 
 - 🐶 J'ai un assistant personnel mais il ne gère pas encore mes courriels !
 
 
----
 ---
 
 ## 👋 Hi there I'm Jeanne, welcome to my Github profile
@@ -90,7 +71,6 @@ Je suis actuellement à la recherche d'une opportunité professionnelle où mon 
 - 🎯 Main Goal: To join a development team and demonstrate my commitment.
 - 🧑‍💻 + : I am also following the Full-Stack JavaScript curriculum from The Odin Project.
 
----
 
 ## 💼 Portfolio
 
@@ -98,7 +78,6 @@ Check out my portfolio [here](https://jeannepietropaoli.github.io/portefolio/).
 
 You'll find some of my projects and details about my profile.
 
----
 
 ## 📫 Contact Me
 
@@ -106,7 +85,6 @@ You'll find some of my projects and details about my profile.
 - LinkedIn: [https://www.linkedin.com/in/jeanne-pietropaoli-649398280/].
 - Website: [https://jeannepietropaoli.github.io/portefolio/].
 
----
 
 ## 🛠️ Tech Stack
 
@@ -119,7 +97,6 @@ You'll find some of my projects and details about my profile.
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![PHP (Beginner)](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
----
 
 ## Bucket List
 
@@ -128,13 +105,11 @@ Here’s a glimpse of the technologies and goals I aim to explore in the coming 
 - ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 - 🚀 Contribute to an Open Source Project
 
----
 
 ## 🔍 Seeking Opportunities
 
 I am currently looking for a professional opportunity where my dedication, high standards, and creative approach will be assets to enhance your team. Feel free to reach out! 👋
 
----
 
 ## 🎉 Bonus
 
