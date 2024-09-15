@@ -38,7 +38,7 @@ Vous y trouverez quelques uns de mes projets et les détails de mon profil.
 ![PHP (débutant)](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 
-## Bucket List
+## 📋 Bucket List
 
 Voici un aperçu des technologies et des objectifs que je souhaite explorer dans les prochains mois:
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -98,7 +98,7 @@ You'll find some of my projects and details about my profile.
 ![PHP (Beginner)](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 
-## Bucket List
+## 📋 Bucket List
 
 Here’s a glimpse of the technologies and goals I aim to explore in the coming months:
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
