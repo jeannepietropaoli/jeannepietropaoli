@@ -62,7 +62,9 @@ Je suis actuellement à la recherche d'une opportunité professionnelle où mon 
 
 ---
 
-## 👋 Hi there I'm Jeanne, welcome to my Github profile
+## 👋 Hi there I'm Jeanne, Front-End Web developer
+
+**Welcome to my Github profile**
 
 ## 📚 About Me
 
@@ -113,7 +115,7 @@ I am currently looking for a professional opportunity where my dedication, high 
 
 ## 🎉 Bonus
 
-- 🎻 I first studied lutherie: the precision and dedication are still my forte!
+- 🎻 I first studied guitar making: the precision and dedication are still my forte!
 - 🎨 I have a soft spot for interactivity and creativity in the projects I develop.
 - 🐶 I have a personal assistant, but he’s not managing my emails yet!
 
