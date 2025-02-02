@@ -154,10 +154,10 @@ To view my projects, I invite you to take a look at my portfolio above. If you w
 - **Live Version Link**: [(https://jeannepietropaoli.github.io/weather-app/)]
 
 ### Project 4: What'soup
-- **Source Code Link**: [(https://github.com/jeannepietropaoli/Integration_web_PWA_Jeanne_Pietropaoli)]
+- **Source Code Link**: [(https://github.com/jeannepietropaoli/What_soup_PWA)]
 - **Description**: Fun, interactive, and fully responsive PWA for creating ramen: choose your ingredients and create your bowl, save your recipes, and get inspired by our best recipes and tips!
 - **Technologies**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
-- **Live Version Link**: [(https://jeannepietropaoli.github.io/Integration_web_PWA_Jeanne_Pietropaoli/)]
+- **Live Version Link**: [(https://jeannepietropaoli.github.io/What_soup_PWA/)]
 
 ### Projet 5: Spotify inspired - 🚧 Work in Progress 
 - **Source Code Link**: UI: [(https://github.com/jeannepietropaoli/prog3_TP1_Jeanne_Pietropaoli)]  / API: [(https://github.com/jeannepietropaoli/API_TP2_Jeanne_Pietropaoli)]
