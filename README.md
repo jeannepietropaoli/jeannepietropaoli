@@ -59,7 +59,7 @@ Pour voir mes projets, je vous invite à jeter un oeil à mon portfolio plus hau
 - **Lien vers la version live**: pas encore disponible
 
 ### Projet 6: Gestion des activités - centre de loisirs - 🚧 Projet en cours
-- **Lien vers le code source**: [(https://github.com/jeannepietropaoli/Integration_web_PWA_Jeanne_Pietropaoli)]
+- **Lien vers le code source**: UI: [(https://github.com/jeannepietropaoli/TP3_Jeanne_Pietropaoli_Inte_IU_VueJS)] / API: [(https://github.com/jeannepietropaoli/TP3_Centre_loisirs_API)]
 - **Description**: Site de gestion des activités d'un centre de loisirs: utilisateurs, création d'activités, réservations...
 - **Technologies**: ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
 - **Lien vers la version live**: pas encore disponible
@@ -160,17 +160,17 @@ To view my projects, I invite you to take a look at my portfolio above. If you w
 - **Live Version Link**: [(https://jeannepietropaoli.github.io/Integration_web_PWA_Jeanne_Pietropaoli/)]
 
 ### Projet 5: Spotify inspired - 🚧 Work in Progress 
-- **Lien vers le code source**: UI: [(https://github.com/jeannepietropaoli/prog3_TP1_Jeanne_Pietropaoli)]  / API: [(https://github.com/jeannepietropaoli/API_TP2_Jeanne_Pietropaoli)]
+- **Source Code Link**: UI: [(https://github.com/jeannepietropaoli/prog3_TP1_Jeanne_Pietropaoli)]  / API: [(https://github.com/jeannepietropaoli/API_TP2_Jeanne_Pietropaoli)]
 - **Description**: A platform to explore, manage, and organize your favorite playlists and songs.
 - **Technologies**: ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) | ![Angular Material](https://img.shields.io/badge/Angular%20Material-009688?style=flat-square&logo=angular&logoColor=white)  
-- **Lien vers la version live**: not available yet
+- **Live Version Link**: not available yet
 
 ### Projet 6: Activity Management - Recreation Center - 🚧 Work in Progress 
-- **Lien vers le code source**: [(https://github.com/jeannepietropaoli/Integration_web_PWA_Jeanne_Pietropaoli)]
+- **Source Code Link**: UI: [(https://github.com/jeannepietropaoli/TP3_Jeanne_Pietropaoli_Inte_IU_VueJS)] / API: [(https://github.com/jeannepietropaoli/TP3_Centre_loisirs_API)]
 - **Description**: Website for managing the activities of a recreation center: users, activity creation, bookings...
 - **Technologies**: ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
-- **Lien vers la version live**: not available yet
-- 
+- **Live Version Link**: not available yet
+  
 ## 📫 Contact Me
 
 - Email: [pietropaolijeanne@gmail.com].
