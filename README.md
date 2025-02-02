@@ -46,10 +46,10 @@ Pour voir mes projets, je vous invite à jeter un oeil à mon portfolio plus hau
 - **Lien vers la version live**: [(https://jeannepietropaoli.github.io/weather-app/)]
 
 ### Projet 4: What'soup
-- **Lien vers le code source**: [(https://github.com/jeannepietropaoli/Integration_web_PWA_Jeanne_Pietropaoli)]
+- **Lien vers le code source**: [(https://github.com/jeannepietropaoli/What_soup_PWA)]
 - **Description**: PWA fun, interactive et full responsive de création de ramens: choisissez vos ingrédients et créer votre bol, enregistrez vos recettes et inspirez-vous de nos meilleures recettes et conseils!
 - **Technologies**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
-- **Lien vers la version live**: [(https://jeannepietropaoli.github.io/Integration_web_PWA_Jeanne_Pietropaoli/)]
+- **Lien vers la version live**: [(https://jeannepietropaoli.github.io/What_soup_PWA/)]
 - **Remarques**: j'aimerais développer une version avec un framework (Vue ou React) pour avoir un code plus efficace, lisible et facile à maintenir et étendre les fonctionnalités. A suivre dans les prochains mois !
 
 ### Projet 5: Inspiré de Spotify - 🚧 Projet en cours 
