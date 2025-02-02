@@ -15,6 +15,7 @@
 ## 💼 Portfolio
 
 Consultez mon portfolio [ici](https://jeannepietropaoli.github.io/portefolio/).
+Code source du portfolio [ici](https://github.com/jeannepietropaoli/portefolio).
 
 Vous y trouverez quelques uns de mes projets et les détails de mon profil.
 
@@ -49,8 +50,20 @@ Pour voir mes projets, je vous invite à jeter un oeil à mon portfolio plus hau
 - **Description**: PWA fun, interactive et full responsive de création de ramens: choisissez vos ingrédients et créer votre bol, enregistrez vos recettes et inspirez-vous de nos meilleures recettes et conseils!
 - **Technologies**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
 - **Lien vers la version live**: [(https://jeannepietropaoli.github.io/Integration_web_PWA_Jeanne_Pietropaoli/)]
+- **Remarques**: j'aimerais développer une version avec un framework (Vue ou React) pour avoir un code plus efficace, lisible et facile à maintenir et étendre les fonctionnalités. A suivre dans les prochains mois !
 
+### Projet 5: Inspiré de Spotify - 🚧 Projet en cours 
+- **Lien vers le code source**: UI: [(https://github.com/jeannepietropaoli/prog3_TP1_Jeanne_Pietropaoli)]  / API: [(https://github.com/jeannepietropaoli/API_TP2_Jeanne_Pietropaoli)]
+- **Description**: Une plateforme pour explorer, gérer et organiser vos playlists et chansons favorites.
+- **Technologies**: ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) | ![Angular Material](https://img.shields.io/badge/Angular%20Material-009688?style=flat-square&logo=angular&logoColor=white)  
+- **Lien vers la version live**: pas encore disponible
 
+### Projet 6: Gestion des activités - centre de loisirs - 🚧 Projet en cours
+- **Lien vers le code source**: [(https://github.com/jeannepietropaoli/Integration_web_PWA_Jeanne_Pietropaoli)]
+- **Description**: Site de gestion des activités d'un centre de loisirs: utilisateurs, création d'activités, réservations...
+- **Technologies**: ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
+- **Lien vers la version live**: pas encore disponible
+  
 ## 📫 Me contacter
 
 - Email : [pietropaolijeanne@gmail.com].
@@ -65,16 +78,18 @@ Pour voir mes projets, je vous invite à jeter un oeil à mon portfolio plus hau
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)  
+![Angular (débutant)](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![PHP (débutant)](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
 
 ## 📋 Bucket List
 
 Voici un aperçu des technologies et des objectifs que je souhaite explorer dans les prochains mois:
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+- ✅  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+- ✅ ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 - 🚀 Contribuer à un projet open-source
 
 
@@ -109,6 +124,7 @@ Je suis actuellement à la recherche d'une opportunité professionnelle où mon 
 ## 💼 Portfolio
 
 Check out my portfolio [here](https://jeannepietropaoli.github.io/portefolio/).
+Link to the source code of my portfolio [here](https://github.com/jeannepietropaoli/portefolio).
 
 You'll find some of my projects and details about my profile.
 
@@ -143,7 +159,18 @@ To view my projects, I invite you to take a look at my portfolio above. If you w
 - **Technologies**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
 - **Live Version Link**: [(https://jeannepietropaoli.github.io/Integration_web_PWA_Jeanne_Pietropaoli/)]
 
+### Projet 5: Spotify inspired - 🚧 Work in Progress 
+- **Lien vers le code source**: UI: [(https://github.com/jeannepietropaoli/prog3_TP1_Jeanne_Pietropaoli)]  / API: [(https://github.com/jeannepietropaoli/API_TP2_Jeanne_Pietropaoli)]
+- **Description**: A platform to explore, manage, and organize your favorite playlists and songs.
+- **Technologies**: ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) | ![Angular Material](https://img.shields.io/badge/Angular%20Material-009688?style=flat-square&logo=angular&logoColor=white)  
+- **Lien vers la version live**: not available yet
 
+### Projet 6: Activity Management - Recreation Center - 🚧 Work in Progress 
+- **Lien vers le code source**: [(https://github.com/jeannepietropaoli/Integration_web_PWA_Jeanne_Pietropaoli)]
+- **Description**: Website for managing the activities of a recreation center: users, activity creation, bookings...
+- **Technologies**: ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
+- **Lien vers la version live**: not available yet
+- 
 ## 📫 Contact Me
 
 - Email: [pietropaolijeanne@gmail.com].
@@ -158,16 +185,18 @@ To view my projects, I invite you to take a look at my portfolio above. If you w
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)  
+![Angular (débutant)](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![PHP (Beginner)](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PHP (débutant)](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
 
 ## 📋 Bucket List
 
 Here’s a glimpse of the technologies and goals I aim to explore in the coming months:
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+- ✅ ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+- ✅ ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 - 🚀 Contribute to an Open Source Project
 
 
