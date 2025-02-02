@@ -6,7 +6,7 @@
 
 ## 📚 À propos de moi
 
-- 🎓 Formation: Je suis présentemment un AEC en Programmation Web Front-End
+- 🎓 Formation: Je finalise un AEC en Programmation Web Front-End
 - 🌱 Mes frameworks du moment sont React, Vue.js et Angular
 - 🎯 Mon objectif principal : M'intégrer à une équipe de devs et démontrer mon sérieux
 - 🧑‍💻 + : Je suis en parallèle le cursus Full-Stack Javascript de Odin Project
@@ -115,7 +115,7 @@ Je suis actuellement à la recherche d'une opportunité professionnelle où mon 
 
 ## 📚 About Me
 
-- 🎓 Education: I am currently pursuing an AEC in Front-End Web Programming.
+- 🎓 Education: I am currently pursuing an AEC in Front-End Web Programming and will be graduating soon.
 - 🌱 Currently Learning: React, Vue.js and Angular.
 - 🎯 Main Goal: To join a development team and demonstrate my commitment.
 - 🧑‍💻 + : I am also following the Full-Stack JavaScript curriculum from The Odin Project.
