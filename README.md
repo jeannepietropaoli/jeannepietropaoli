@@ -14,8 +14,8 @@
 
 ## 💼 Portfolio
 
-Consultez mon portfolio [ici](https://jeannepietropaoli.github.io/portfolio/).
-Code source du portfolio [ici](https://github.com/jeannepietropaoli/portfolio).
+Consultez mon portfolio [ici](https://jeannepietropaoli.github.io/portefolio/).
+Code source du portfolio [ici](https://github.com/jeannepietropaoli/portefolio).
 
 Vous y trouverez quelques uns de mes projets et les détails de mon profil.
 
@@ -123,8 +123,8 @@ Je suis actuellement à la recherche d'une opportunité professionnelle où mon 
 
 ## 💼 Portfolio
 
-Check out my portfolio [here](https://jeannepietropaoli.github.io/portfolio/).
-Link to the source code of my portfolio [here](https://github.com/jeannepietropaoli/portfolio).
+Check out my portfolio [here](https://jeannepietropaoli.github.io/portefolio/).
+Link to the source code of my portfolio [here](https://github.com/jeannepietropaoli/portefolio).
 
 You'll find some of my projects and details about my profile.
 
