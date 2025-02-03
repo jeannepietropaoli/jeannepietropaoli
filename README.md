@@ -104,7 +104,7 @@ Je suis actuellement à la recherche d'une opportunité professionnelle où mon 
 
 - 🎻 J'ai d'abord étudié en lutherie: la minutie et l'exigence sont toujours dans mes cordes !
 - 🎨 J'ai un petit faible pour l'interactivité et la créativité dans les projets que je développe
-- 🐶 J'ai un assistant personnel mais il ne gère pas encore mes courriels !
+- 🐶 J'ai un assistant personnel, mon **acolyte** Bernie, mais il ne gère pas encore mes courriels !
 
 
 ---
