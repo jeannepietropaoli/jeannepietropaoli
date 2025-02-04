@@ -39,11 +39,11 @@ Pour voir mes projets, je vous invite à jeter un oeil à mon portfolio plus hau
     - version JS [(https://jeannepietropaoli.github.io/to_do_list/)]
     - version React [(https://jeannepietropaoli.github.io/react-simple-to-do-list/)]
 
-### Projet 3: Application météo
-- **Lien vers le code source**: [(https://github.com/jeannepietropaoli/weather-app)]
-- **Description**: Application météo simple utilisant l'API WetaherApi: recherchez simplement votre ville !
-- **Technologies**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-- **Lien vers la version live**: [(https://jeannepietropaoli.github.io/weather-app/)]
+### Projet 3: Fruictify
+- **Lien vers le code source**: [(https://github.com/jeannepietropaoli/shopping-cart-v2)]
+- **Description**: Application monopage avec React Router d'une boutique en ligne virtuelle. Familiarisation au TDD avec React-testing library et aux custom hooks.
+- **Technologies**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testing-library&logoColor=white&style=flat) ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=reactrouter&logoColor=white&style=flat)
+- **Lien vers la version live**: [(https://fruictify.netlify.app)]
 
 ### Projet 4: What'soup
 - **Lien vers le code source**: [(https://github.com/jeannepietropaoli/What_soup_PWA)]
@@ -147,11 +147,11 @@ To view my projects, I invite you to take a look at my portfolio above. If you w
     - JS version [(https://jeannepietropaoli.github.io/to_do_list/)]
     - React version [(https://jeannepietropaoli.github.io/react-simple-to-do-list/)]
 
-### Project 3: Weather App
-- **Source Code Link**: [(https://github.com/jeannepietropaoli/weather-app)]
-- **Description**: Simple weather application using the WeatherApi: just search for your city!
-- **Technologies**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-- **Live Version Link**: [(https://jeannepietropaoli.github.io/weather-app/)]
+### Projet 3: Fruictify
+- **Source Code Link**: [(https://github.com/jeannepietropaoli/shopping-cart-v2)]
+- **Description**: Single Page Application with React Router of a fake online store with a shopping cart feature. TDD practice using React-testing library.
+- **Technologies**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testing-library&logoColor=white&style=flat) ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=reactrouter&logoColor=white&style=flat)
+- **Live Version Link**: [(https://fruictify.netlify.app)]
 
 ### Project 4: What'soup
 - **Source Code Link**: [(https://github.com/jeannepietropaoli/What_soup_PWA)]
