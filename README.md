@@ -6,31 +6,38 @@
 
 ## 📚 À propos de moi
 
-- 🎓 Formation: Je finalise un AEC en Programmation Web Front-End
-- 🌱 Mes frameworks du moment sont React, Vue.js et Angular
-- 🎯 Mon objectif principal : M'intégrer à une équipe de devs et démontrer mon sérieux
-- 🧑‍💻 + : Je suis en parallèle le cursus Full-Stack Javascript de Odin Project
-
+- 💼 Intégratrice et développeuse Web en agence numérique depuis 2025
+- 🎓 Diplômée de l'AEC en Développement Web Front-End (Cégep de Trois-Rivières)
+- 📖 J'ai également suivi le cursus Full Stack JavaScript de The Odin Project, où j'ai réalisé plusieurs projets pratiques
+- 🛠️ Au quotidien, je développe principalement avec WordPress (PHP, JavaScript, SCSS, ACF, WPML, Gutenberg, Elementor) et je contribue également à des projets développés avec Laravel
 
 ## 💼 Portfolio
 
-Consultez mon portfolio [ici](https://jeannepietropaoli.github.io/portefolio/).
-Code source du portfolio [ici](https://github.com/jeannepietropaoli/portefolio).
+Consultez mon portfolio [ici](https://jeannepietropaoli.github.io/portefolio/).  
+Le code source est disponible [ici](https://github.com/jeannepietropaoli/portefolio).
 
-Vous y trouverez quelques uns de mes projets et les détails de mon profil.
+Vous y trouverez une sélection de mes projets personnels ainsi que davantage d'informations sur mon parcours.
 
+**Note :** Les projets les plus récents sur lesquels j'ai travaillé ont été réalisés dans le cadre de mon emploi en agence. Étant des projets clients, ils ne sont pas partagés ici.
 
 ## 📂 Projets
 
 Pour voir mes projets, je vous invite à jeter un oeil à mon portfolio plus haut. Si vous voulez découvir rapidement quelques projets de mon profil Github, voici les liens vers leurs repos.
 
-### Projet 1: Création de CV en ligne
+### Projet 1: What'soup
+- **Lien vers le code source**: [(https://github.com/jeannepietropaoli/What_soup_PWA)]
+- **Description**: PWA fun, interactive et full responsive de création de ramens: choisissez vos ingrédients et créer votre bol, enregistrez vos recettes et inspirez-vous de nos meilleures recettes et conseils!
+- **Technologies**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
+- **Lien vers la version live**: [(https://jeannepietropaoli.github.io/What_soup_PWA/)]
+- **Remarques**: j'aimerais développer une version avec un framework (Vue ou React) pour avoir un code plus efficace, lisible et facile à maintenir et étendre les fonctionnalités. A suivre dans les prochains mois !
+
+### Projet 2: Création de CV en ligne
 - **Lien vers le code source**: [(https://github.com/jeannepietropaoli/cv-builder-v3)]
 - **Description**: Application de création de CV en ligne avec sections et design prédéfinis. Editez vos informations et enregistrez ou imprimez le document.
 - **Technologies**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 - **Lien vers la version live**: [(https://online-cv-builder-app.netlify.app/)]
 
-### Projet 2: To-do List
+### Projet 3: To-do List
 - **Lien vers le code source**: [(https://github.com/jeannepietropaoli/to_do_list)]
 - **Note**: Version React simplifiée disponible: [(https://github.com/jeannepietropaoli/react-simple-to-do-list)]
 - **Description**: To-do list avec sauvegarde dans le navigateur
@@ -39,18 +46,11 @@ Pour voir mes projets, je vous invite à jeter un oeil à mon portfolio plus hau
     - version JS [(https://jeannepietropaoli.github.io/to_do_list/)]
     - version React [(https://jeannepietropaoli.github.io/react-simple-to-do-list/)]
 
-### Projet 3: Fruictify
+### Projet 4: Fruictify
 - **Lien vers le code source**: [(https://github.com/jeannepietropaoli/shopping-cart-v2)]
 - **Description**: Application monopage avec React Router d'une boutique en ligne virtuelle. Familiarisation au TDD avec React-testing library et aux custom hooks.
 - **Technologies**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testing-library&logoColor=white&style=flat) ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=reactrouter&logoColor=white&style=flat)
 - **Lien vers la version live**: [(https://fruictify.netlify.app)]
-
-### Projet 4: What'soup
-- **Lien vers le code source**: [(https://github.com/jeannepietropaoli/What_soup_PWA)]
-- **Description**: PWA fun, interactive et full responsive de création de ramens: choisissez vos ingrédients et créer votre bol, enregistrez vos recettes et inspirez-vous de nos meilleures recettes et conseils!
-- **Technologies**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
-- **Lien vers la version live**: [(https://jeannepietropaoli.github.io/What_soup_PWA/)]
-- **Remarques**: j'aimerais développer une version avec un framework (Vue ou React) pour avoir un code plus efficace, lisible et facile à maintenir et étendre les fonctionnalités. A suivre dans les prochains mois !
 
 ### Projet 5: Inspiré de Spotify - 🚧 Projet en cours 
 - **Lien vers le code source**: UI: [(https://github.com/jeannepietropaoli/prog3_TP1_Jeanne_Pietropaoli)]  / API: [(https://github.com/jeannepietropaoli/API_TP2_Jeanne_Pietropaoli)]
@@ -66,152 +66,153 @@ Pour voir mes projets, je vous invite à jeter un oeil à mon portfolio plus hau
   
 ## 📫 Me contacter
 
-- Email : [pietropaolijeanne@gmail.com].
-- LinkedIn : [https://www.linkedin.com/in/jeanne-pietropaoli-649398280/].
+- Email : [jeannepietropaoli@gmail.com].
+- LinkedIn : [https://www.linkedin.com/in/jeanne-pietropaoli-354451329/].
 - Site web : [https://jeannepietropaoli.github.io/portefolio/].
 
 
 ## 🛠️ Tech Stack
 
+### Langages & technos
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)  
-![Angular (débutant)](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![PHP (débutant)](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+
+### WordPress
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
+![Gutenberg](https://img.shields.io/badge/-Gutenberg-21759B?logo=wordpress&logoColor=white&style=flat)
+![Elementor](https://img.shields.io/badge/-Elementor-92003B?logo=elementor&logoColor=white&style=flat)
+![ACF](https://img.shields.io/badge/-ACF-0055FF?style=flat)
+![WPML](https://img.shields.io/badge/-WPML-6C2EB9?style=flat)
+![Gravity%20Forms](https://img.shields.io/badge/-Gravity%20Forms-3657FF?style=flat)
+
+### Outils
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-
-
-## 📋 Bucket List
-
-Voici un aperçu des technologies et des objectifs que je souhaite explorer dans les prochains mois:
-- ✅  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-- ✅ ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-- 🚀 Contribuer à un projet open-source
-
-
-## 🔍 Recherche d'Opportunités
-
-
-Je suis actuellement à la recherche d'une opportunité professionnelle où mon sérieux, mon exigence et mon approche créative seront des atouts pour enrichir durablement votre équipe. N'hésitez pas à me contacter ! 👋
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
 
 ## 🎉 Bonus
 
-
 - 🎻 J'ai d'abord étudié en lutherie: la minutie et l'exigence sont toujours dans mes cordes !
 - 🎨 J'ai un petit faible pour l'interactivité et la créativité dans les projets que je développe
-- 🐶 J'ai un assistant personnel, mon **acolyte** Bernie, mais il ne gère pas encore mes courriels !
+- 🐶 J'ai un assistant personnel mais il ne gère pas encore mes courriels !
 
 
 ---
 
-## 👋 Hi there I'm Jeanne, Front-End Web developer
+# 👋 Hi, I'm Jeanne, a Front-End Web Developer
 
-**Welcome to my Github profile**
+**Welcome to my GitHub profile!**
+
+(Version française ci-dessus)
 
 ## 📚 About Me
 
-- 🎓 Education: I am currently pursuing an AEC in Front-End Web Programming and will be graduating soon.
-- 🌱 Currently Learning: React, Vue.js and Angular.
-- 🎯 Main Goal: To join a development team and demonstrate my commitment.
-- 🧑‍💻 + : I am also following the Full-Stack JavaScript curriculum from The Odin Project.
-
+- 💼 Web Integrator & Developer at a digital agency since 2025
+- 🎓 Graduated from the Front-End Web Development AEC program (Cégep de Trois-Rivières, Québec)
+- 📖 I also completed The Odin Project's Full Stack JavaScript curriculum, building several hands-on projects along the way
+- 🛠️ I primarily develop WordPress websites using PHP, JavaScript and SCSS (ACF, WPML, Gutenberg, Elementor), while also contributing to Laravel projects
 
 ## 💼 Portfolio
 
-Check out my portfolio [here](https://jeannepietropaoli.github.io/portefolio/).
-Link to the source code of my portfolio [here](https://github.com/jeannepietropaoli/portefolio).
+Check out my portfolio [here](https://jeannepietropaoli.github.io/portefolio/).  
+You can find the source code [here](https://github.com/jeannepietropaoli/portefolio).
 
-You'll find some of my projects and details about my profile.
+It showcases a selection of my personal projects along with more information about my background.
+
+**Note:** Most of the projects I've worked on recently were developed as part of my agency work. Since they are client projects, I can't share them publicly.
 
 ## 📂 Projects
 
-To view my projects, I invite you to take a look at my portfolio above. If you want a quick overview of some projects from my GitHub profile, here are the links to their repos.
+To discover more about my work, feel free to visit my portfolio above. If you'd rather browse directly on GitHub, here are some of my favorite repositories.
 
-### Project 1: Online Resume Builder
-- **Source Code Link**: [(https://github.com/jeannepietropaoli/cv-builder-v3)]
-- **Description**: Online resume builder with predefined sections and design. Edit your information and save or print the document.
-- **Technologies**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-- **Live Version Link**: [Live](https://online-cv-builder-app.netlify.app/)
+### Project 1: What'soup
 
-### Project 2: To-do List
-- **Source Code Link**: [(https://github.com/jeannepietropaoli/to_do_list)]
-- **Note**: Simplified React version available: [Github](https://github.com/jeannepietropaoli/react-simple-to-do-list)
-- **Description**: To-do list with browser storage
-- **Technologies**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-- **Live Version Link**:
-    - JS version [(https://jeannepietropaoli.github.io/to_do_list/)]
-    - React version [(https://jeannepietropaoli.github.io/react-simple-to-do-list/)]
+- **Source code:** https://github.com/jeannepietropaoli/What_soup_PWA
+- **Description:** A fun, interactive and fully responsive Progressive Web App for creating custom ramen bowls. Choose your ingredients, save your recipes and explore featured recipes and tips.
+- **Technologies:** HTML5 • CSS3 • JavaScript • Tailwind CSS
+- **Live demo:** https://jeannepietropaoli.github.io/What_soup_PWA/
+- **Notes:** I'd like to rebuild this project with React or Vue to make the codebase cleaner, more maintainable and easier to extend.
 
-### Projet 3: Fruictify
-- **Source Code Link**: [(https://github.com/jeannepietropaoli/shopping-cart-v2)]
-- **Description**: Single Page Application with React Router of a fake online store with a shopping cart feature. TDD practice using React-testing library.
-- **Technologies**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testing-library&logoColor=white&style=flat) ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=reactrouter&logoColor=white&style=flat)
-- **Live Version Link**: [(https://fruictify.netlify.app)]
+### Project 2: Online CV Builder
 
-### Project 4: What'soup
-- **Source Code Link**: [(https://github.com/jeannepietropaoli/What_soup_PWA)]
-- **Description**: Fun, interactive, and fully responsive PWA for creating ramen: choose your ingredients and create your bowl, save your recipes, and get inspired by our best recipes and tips!
-- **Technologies**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
-- **Live Version Link**: [(https://jeannepietropaoli.github.io/What_soup_PWA/)]
+- **Source code:** https://github.com/jeannepietropaoli/cv-builder-v3
+- **Description:** A web application for creating resumes with predefined layouts. Users can edit their information, save or print the final document.
+- **Technologies:** React • CSS3
+- **Live demo:** https://online-cv-builder-app.netlify.app/
 
-### Projet 5: Spotify inspired - 🚧 Work in Progress 
-- **Source Code Link**: UI: [(https://github.com/jeannepietropaoli/prog3_TP1_Jeanne_Pietropaoli)]  / API: [(https://github.com/jeannepietropaoli/API_TP2_Jeanne_Pietropaoli)]
-- **Description**: A platform to explore, manage, and organize your favorite playlists and songs.
-- **Technologies**: ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) | ![Angular Material](https://img.shields.io/badge/Angular%20Material-009688?style=flat-square&logo=angular&logoColor=white)  
-- **Live Version Link**: not available yet
+### Project 3: To-do List
 
-### Projet 6: Activity Management - Recreation Center - 🚧 Work in Progress 
-- **Source Code Link**: UI: [(https://github.com/jeannepietropaoli/TP3_Jeanne_Pietropaoli_Inte_IU_VueJS)] / API: [(https://github.com/jeannepietropaoli/TP3_Centre_loisirs_API)]
-- **Description**: Website for managing the activities of a recreation center: users, activity creation, bookings...
-- **Technologies**: ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
-- **Live Version Link**: not available yet
-  
-## 📫 Contact Me
+- **Source code:** https://github.com/jeannepietropaoli/to_do_list
+- **React version:** https://github.com/jeannepietropaoli/react-simple-to-do-list
+- **Description:** A to-do list application with browser storage.
+- **Technologies:** HTML5 • CSS3 • JavaScript • React
+- **Live demos:**
+  - JavaScript version: https://jeannepietropaoli.github.io/to_do_list/
+  - React version: https://jeannepietropaoli.github.io/react-simple-to-do-list/
 
-- Email: [pietropaolijeanne@gmail.com].
-- LinkedIn: [https://www.linkedin.com/in/jeanne-pietropaoli-649398280/].
-- Website: [https://jeannepietropaoli.github.io/portefolio/].
+### Project 4: Fruictify
 
+- **Source code:** https://github.com/jeannepietropaoli/shopping-cart-v2
+- **Description:** A React single-page e-commerce application using React Router. Includes custom hooks and testing with React Testing Library.
+- **Technologies:** React • React Router • React Testing Library • CSS3
+- **Live demo:** https://fruictify.netlify.app
+
+### Project 5: Spotify-inspired App 🚧
+
+- **Source code:**
+  - Front-end: https://github.com/jeannepietropaoli/prog3_TP1_Jeanne_Pietropaoli
+  - API: https://github.com/jeannepietropaoli/API_TP2_Jeanne_Pietropaoli
+- **Description:** A music platform for browsing, managing and organizing playlists and favorite songs.
+- **Technologies:** Angular • PHP • MySQL • Angular Material
+- **Live demo:** Coming soon
+
+### Project 6: Recreation Center Management System 🚧
+
+- **Source code:**
+  - Front-end: https://github.com/jeannepietropaoli/TP3_Jeanne_Pietropaoli_Inte_IU_VueJS
+  - API: https://github.com/jeannepietropaoli/TP3_Centre_loisirs_API
+- **Description:** A recreation center management application for handling users, activities and reservations.
+- **Technologies:** Vue.js • PHP • MySQL • Firebase
+- **Live demo:** Coming soon
+
+## 📫 Contact
+
+- 📧 Email: jeannepietropaoli@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/jeanne-pietropaoli-354451329/
+- 🌐 Portfolio: https://jeannepietropaoli.github.io/portefolio/
 
 ## 🛠️ Tech Stack
 
+### Languages & Technologies
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)  
-![Angular (débutant)](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![PHP (débutant)](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+
+### WordPress
+
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
+![Gutenberg](https://img.shields.io/badge/-Gutenberg-21759B?logo=wordpress&logoColor=white&style=flat)
+![Elementor](https://img.shields.io/badge/-Elementor-92003B?logo=elementor&logoColor=white&style=flat)
+![ACF](https://img.shields.io/badge/-ACF-0055FF?style=flat)
+![WPML](https://img.shields.io/badge/-WPML-6C2EB9?style=flat)
+![Gravity%20Forms](https://img.shields.io/badge/-Gravity%20Forms-3657FF?style=flat)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
+## 🎉 Fun Facts
 
-## 📋 Bucket List
-
-Here’s a glimpse of the technologies and goals I aim to explore in the coming months:
-- ✅ ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-- ✅ ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-- 🚀 Contribute to an Open Source Project
-
-
-## 🔍 Seeking Opportunities
-
-I am currently looking for a professional opportunity where my dedication, high standards, and creative approach will be assets to enhance your team. Feel free to reach out! 👋
-
-
-## 🎉 Bonus
-
-- 🎻 I first studied guitar making: the precision and dedication are still my forte!
-- 🎨 I have a soft spot for interactivity and creativity in the projects I develop.
-- 🐶 I have a personal assistant, but he’s not managing my emails yet!
-
-
-
-
-
+- 🎻 Before becoming a developer, I studied violin making (lutherie). Precision and attention to detail have always been part of who I am.
+- 🎨 I enjoy building interactive and creative user experiences.
+- 🐶 I have a personal assistant... but he still can't answer my emails!
